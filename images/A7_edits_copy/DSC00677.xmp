@@ -1,0 +1,295 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c140 79.160451, 2017/05/06-01:08:21        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:aux="http://ns.adobe.com/exif/1.0/aux/"
+    xmlns:exifEX="http://cipa.jp/exif/1.0/"
+    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+   crs:Version="10.1"
+   crs:ProcessVersion="10.0"
+   crs:WhiteBalance="As Shot"
+   crs:Temperature="3200"
+   crs:Tint="-15"
+   crs:Sharpness="25"
+   crs:LuminanceSmoothing="0"
+   crs:ColorNoiseReduction="25"
+   crs:VignetteAmount="0"
+   crs:ShadowTint="0"
+   crs:RedHue="0"
+   crs:RedSaturation="0"
+   crs:GreenHue="0"
+   crs:GreenSaturation="0"
+   crs:BlueHue="0"
+   crs:BlueSaturation="0"
+   crs:GrayMixerRed="-11"
+   crs:GrayMixerOrange="-20"
+   crs:GrayMixerYellow="-24"
+   crs:GrayMixerGreen="-27"
+   crs:GrayMixerAqua="-16"
+   crs:GrayMixerBlue="+25"
+   crs:GrayMixerPurple="+17"
+   crs:GrayMixerMagenta="+4"
+   crs:SplitToningShadowHue="0"
+   crs:SplitToningShadowSaturation="0"
+   crs:SplitToningHighlightHue="0"
+   crs:SplitToningHighlightSaturation="0"
+   crs:SplitToningBalance="0"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="0"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="0"
+   crs:ParametricShadowSplit="25"
+   crs:ParametricMidtoneSplit="50"
+   crs:ParametricHighlightSplit="75"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="25"
+   crs:SharpenEdgeMasking="0"
+   crs:PostCropVignetteAmount="0"
+   crs:GrainAmount="0"
+   crs:ColorNoiseReductionDetail="50"
+   crs:ColorNoiseReductionSmoothness="50"
+   crs:LensProfileEnable="1"
+   crs:LensManualDistortionAmount="0"
+   crs:PerspectiveVertical="0"
+   crs:PerspectiveHorizontal="0"
+   crs:PerspectiveRotate="0.0"
+   crs:PerspectiveScale="100"
+   crs:PerspectiveAspect="0"
+   crs:PerspectiveUpright="0"
+   crs:PerspectiveX="0.00"
+   crs:PerspectiveY="0.00"
+   crs:AutoLateralCA="0"
+   crs:Exposure2012="0.00"
+   crs:Contrast2012="+55"
+   crs:Highlights2012="+15"
+   crs:Shadows2012="-15"
+   crs:Whites2012="0"
+   crs:Blacks2012="-30"
+   crs:Clarity2012="+5"
+   crs:Dehaze="+21"
+   crs:ConvertToGrayscale="True"
+   crs:ToneCurveName="Medium Contrast"
+   crs:ToneCurveName2012="Linear"
+   crs:CameraProfile="Adobe Standard"
+   crs:CameraProfileDigest="24DB427054E183A10DED3CF64B3851FA"
+   crs:LensProfileSetup="LensDefaults"
+   crs:LensProfileName="Adobe (Sony FE 28-70mm F3.5-5.6 OSS)"
+   crs:LensProfileFilename="SONY (Sony FE 28-70mm F3.5-5.6 OSS) - RAW.lcp"
+   crs:LensProfileDigest="E5C0D9DF0F03371FEE30960119949F22"
+   crs:LensProfileDistortionScale="100"
+   crs:LensProfileChromaticAberrationScale="100"
+   crs:LensProfileVignettingScale="100"
+   crs:UprightVersion="151388160"
+   crs:UprightCenterMode="0"
+   crs:UprightCenterNormX="0.5"
+   crs:UprightCenterNormY="0.5"
+   crs:UprightFocalMode="0"
+   crs:UprightFocalLength35mm="35"
+   crs:UprightPreview="False"
+   crs:UprightTransformCount="6"
+   crs:UprightFourSegmentsCount="0"
+   crs:HasSettings="True"
+   crs:CropTop="0"
+   crs:CropLeft="0"
+   crs:CropBottom="0.846632"
+   crs:CropRight="1"
+   crs:CropAngle="0"
+   crs:CropConstrainToWarp="0"
+   crs:HasCrop="True"
+   crs:AlreadyApplied="False"
+   crs:RawFileName="DSC00677.ARW"
+   tiff:Make="SONY"
+   tiff:Model="ILCE-7"
+   tiff:Orientation="1"
+   exif:ExifVersion="0230"
+   exif:ExposureTime="1/15"
+   exif:ShutterSpeedValue="3906891/1000000"
+   exif:FNumber="45/10"
+   exif:ApertureValue="433985/100000"
+   exif:ExposureProgram="3"
+   exif:SensitivityType="2"
+   exif:RecommendedExposureIndex="6400"
+   exif:BrightnessValue="-8416/2560"
+   exif:ExposureBiasValue="0/1"
+   exif:MaxApertureValue="1110/256"
+   exif:MeteringMode="5"
+   exif:LightSource="0"
+   exif:FocalLength="510/10"
+   exif:FileSource="3"
+   exif:SceneType="1"
+   exif:FocalLengthIn35mmFilm="51"
+   exif:CustomRendered="0"
+   exif:ExposureMode="0"
+   exif:WhiteBalance="0"
+   exif:SceneCaptureType="0"
+   exif:Contrast="0"
+   exif:Saturation="0"
+   exif:Sharpness="0"
+   exif:DigitalZoomRatio="16/16"
+   exif:FocalPlaneXResolution="54894834/32768"
+   exif:FocalPlaneYResolution="54894834/32768"
+   exif:FocalPlaneResolutionUnit="3"
+   exif:DateTimeOriginal="2017-12-10T22:31:59"
+   xmp:CreatorTool="ILCE-7 v3.20"
+   xmp:ModifyDate="2017-12-10T22:31:59"
+   xmp:CreateDate="2017-12-10T22:31:59"
+   xmp:MetadataDate="2018-04-27T13:00:26-04:00"
+   aux:LensInfo="280/10 700/10 35/10 56/10"
+   aux:Lens="FE 28-70mm F3.5-5.6 OSS"
+   exifEX:LensModel="FE 28-70mm F3.5-5.6 OSS"
+   photoshop:DateCreated="2017-12-10T22:31:59"
+   photoshop:SidecarForExtension="ARW"
+   photoshop:EmbeddedXMPDigest="00000000000000000000000000000000"
+   xmpMM:DocumentID="E78ED7C6EE887F4896386DFBD19E83A7"
+   xmpMM:OriginalDocumentID="E78ED7C6EE887F4896386DFBD19E83A7"
+   xmpMM:InstanceID="xmp.iid:1cd2ead9-1be0-4dd5-87b4-b94525c3662e"
+   dc:format="image/x-sony-arw">
+   <crs:ToneCurve>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>32, 22</rdf:li>
+     <rdf:li>64, 56</rdf:li>
+     <rdf:li>128, 128</rdf:li>
+     <rdf:li>192, 196</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurve>
+   <crs:ToneCurveRed>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveRed>
+   <crs:ToneCurveGreen>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveGreen>
+   <crs:ToneCurveBlue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurveBlue>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
+   <crs:RetouchAreas>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       crs:SpotType="heal"
+       crs:SourceState="sourceSetExplicitly"
+       crs:Method="gaussian"
+       crs:HealVersion="+2"
+       crs:SourceX="0.543186"
+       crs:OffsetY="0.063632"
+       crs:Opacity="1.000000"
+       crs:Feather="0.000000"
+       crs:Seed="+2">
+      <crs:Masks>
+       <rdf:Seq>
+        <rdf:li
+         crs:What="Mask/Ellipse"
+         crs:MaskValue="1.000000"
+         crs:X="0.477790"
+         crs:Y="0.119150"
+         crs:SizeX="0.009713"
+         crs:SizeY="0.009713"
+         crs:Alpha="0.000000"
+         crs:CenterValue="1.000000"
+         crs:PerimeterValue="0.000000"/>
+       </rdf:Seq>
+      </crs:Masks>
+      </rdf:Description>
+     </rdf:li>
+     <rdf:li>
+      <rdf:Description
+       crs:SpotType="heal"
+       crs:SourceState="sourceAutoComputed"
+       crs:Method="gaussian"
+       crs:HealVersion="+2"
+       crs:SourceX="0.533652"
+       crs:OffsetY="0.130772"
+       crs:Opacity="1.000000"
+       crs:Feather="0.000000"
+       crs:Seed="+2">
+      <crs:Masks>
+       <rdf:Seq>
+        <rdf:li
+         crs:What="Mask/Ellipse"
+         crs:MaskValue="1.000000"
+         crs:X="0.566152"
+         crs:Y="0.131022"
+         crs:SizeX="0.014555"
+         crs:SizeY="0.014555"
+         crs:Alpha="0.000000"
+         crs:CenterValue="1.000000"
+         crs:PerimeterValue="0.000000"/>
+       </rdf:Seq>
+      </crs:Masks>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </crs:RetouchAreas>
+   <crs:RetouchInfo>
+    <rdf:Seq>
+     <rdf:li>centerX = 0.477790, centerY = 0.119150, radius = 0.009713, sourceState = sourceSetExplicitly, sourceX = 0.543186, sourceY = 0.063632, spotType = heal</rdf:li>
+     <rdf:li>centerX = 0.566152, centerY = 0.131022, radius = 0.014555, sourceState = sourceAutoComputed, sourceX = 0.533652, sourceY = 0.130772, spotType = heal</rdf:li>
+    </rdf:Seq>
+   </crs:RetouchInfo>
+   <exif:Flash
+    exif:Fired="False"
+    exif:Return="0"
+    exif:Mode="2"
+    exif:Function="False"
+    exif:RedEyeMode="False"/>
+   <exif:ISOSpeedRatings>
+    <rdf:Seq>
+     <rdf:li>6400</rdf:li>
+    </rdf:Seq>
+   </exif:ISOSpeedRatings>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="edited"
+      stEvt:when="2017-12-19T23:48:30Z"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:1cd2ead9-1be0-4dd5-87b4-b94525c3662e"
+      stEvt:when="2018-04-27T13:00:26-04:00"
+      stEvt:softwareAgent="Adobe Lightroom CC 1.3 (Macintosh)"
+      stEvt:changed="/metadata"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

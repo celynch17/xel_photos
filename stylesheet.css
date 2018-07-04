@@ -1,0 +1,122 @@
+.header-section{
+	background: url("/Users/christianlynch/Desktop/CodeCert/Free work/images/PICT0099.jpg");
+	color:white;
+	background-repeat: no-repeat;
+	height: 50%;
+	width:auto;
+	float: center;
+	background-attachment: fixed;
+	text-align: center;
+}
+.intro-section{
+	background-color: rgba(15, 32, 39, .5);
+	
+}
+.navBar{
+	background: linear-gradient(#2c5364, #203A43);
+	position:fixed;
+}
+ul {
+    list-style-type: none;
+    padding-right: 10px;
+    padding-left: 10px;
+    overflow: hidden;
+    background-color: rgba(20, 30, 48, .5);
+    display: inline-block;
+    border-radius: 5px;
+}
+li{
+	float: left;
+	display: inline-block;
+    border-right: solid, white, 1px;
+
+
+}
+li a:hover{
+	text-decoration: bold, italic;
+	color: lightgrey;
+	background-color: #00223E;
+}
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    border-right: solid, white, 1px;
+
+
+}
+a {
+    display: inline;
+    padding: 20px;
+    background-color: #dddddd;
+        border-right: solid, white, 1px;
+            text-align: center;
+}
+
+h4{
+	text-align: center;
+	margin: 10px;
+	padding: 10px;
+	background-color: rgba(133, 147, 152,  .1);
+	overflow: hidden;
+	color: white;
+
+;
+}
+body{
+		background: linear-gradient(#283048, #859398);
+		color:#536976 ;
+
+}
+.inspiration{
+	color: white;
+	text-align: center;
+}
+
+div.intro_gallery{
+	margin: 10px;
+	border: 1px solid;
+	float: relative;
+	width:150px;
+	display: inline-block;
+	background: linear-gradient(#1F1C2C, #928DAB);
+}
+img{
+	width: 100%; 
+	padding: 0px;
+	border: solid 1px ;
+	display:inline-block;
+}
+
+.row{
+	display:flex;
+	flex-wrap:wrap;
+	padding: 0 4px;
+}
+.column{
+	flex: 25%;
+	max-width: 25%;
+	padding:0 4px;
+}
+.column img{
+	margin-top: 8px;
+	vertical-align: middle;
+	border: 2px solid;
+	padding: 3px;
+}
+
+@media screen and (max-width: 800px){
+	.column{
+		flex: 50%;
+		max-width: 50%;
+	}
+}
+
+@media screen and (max-width: 600px){
+	.column{
+		flex:100%;
+		max-width: 100%
+	}
+}
