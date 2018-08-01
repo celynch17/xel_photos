@@ -1,20 +1,27 @@
 .header-section{
-	background: url("/Users/christianlynch/Desktop/CodeCert/freeWork/pictures/PICT0099.jpg");
+	background: url("/Users/christianlynch/Desktop/CodeCert/freeWork/pictures/PICT9512.jpg");
+	background-size:100%;
 	color:white;
 	background-repeat: no-repeat;
-	height: 50%;
+	height: 70%;
 	width:auto;
 	float: center;
-	background-attachment: fixed;
+	background-attachment: inherit;
 	text-align: center;
 }
 .intro-section{
-	background-color: rgba(15, 32, 39, .5);
-	
+/*	background-color: rgba(232, 232, 240, .4);
+*/	width:658px;
+	padding-top:100px;
+	color: black;	
 }
 .navBar{
-	background: linear-gradient(#2c5364, #203A43);
+	background-color: #b3edff
 	position:fixed;
+}
+
+.replacement{
+	display: none;
 }
 /*Dropdown Menu	*/
 /*.dropdown {
@@ -87,18 +94,20 @@ h4{
 	padding: 10px;
 	background-color: rgba(133, 147, 152,  .1);
 	overflow: hidden;
-	color: white;
+	color: black;
 
 ;
 }
 body{
-		background: linear-gradient(#283048, #859398);
+		background: linear-gradient(#ffffff, #abbaab);
 		color:#536976 ;
 
 }
 .inspiration{
-	color: white;
+	color: black;
 	text-align: center;
+	margin-right: 0px;
+	margin-left: 0px;
 }
 
 div.intro_gallery{
@@ -120,6 +129,8 @@ img{
 	display:flex;
 	flex-wrap:wrap;
 	padding: 0 4px;
+	margin-right: 0px;
+	margin-left: 0px;
 }
 .column{
 	flex: 25%;
@@ -145,4 +156,116 @@ img{
 		flex:100%;
 		max-width: 100%
 	}
+}
+
+
+/*about page*/
+
+.myBio{
+	display: inline-block;
+	text-align: center;
+	margin-left:235px;
+	padding:auto;
+	margin-top: 10px;
+}
+.myAvi{
+	text-align: center;
+	float:middle;
+
+}
+#bioAvi{
+	width: 50%;
+	float:left;
+	border: inset lightblue;
+	margin:15px;
+}
+
+/*my work page*/
+
+.mywork-header{
+	height: 400px;
+	
+	text-align: center;
+	padding:150px;
+	font-family: monospace;
+}
+
+.portrait-gallery{
+	background: url("/Users/christianlynch/Desktop/CodeCert/freeWork/pictures/_DSC2671.jpg");
+	height: 450px;
+	width: 1000px;
+	margin:auto;
+	background-size: 100%;
+	background-repeat: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: solid black 1px;
+
+}
+/*@keyframes hoveranimation{
+	from {opacity:0;}
+	to {opacity: .8;}
+}*/
+.portrait-gallery:hover{
+	/*animation-name: hoveranimation;
+	animation-duration:1s;*/
+	opacity:.8;
+	transition:.4s;
+}
+#gallery-button{
+	margin-top:220px;
+	margin-left: 450px;
+	height: 50px;
+	font-size: 24px;
+	background: none;
+	font-family: monospace;
+	color: white;
+}
+
+#gallery-button:hover{
+	background:lightgrey;
+	opacity:2;
+}
+
+.photo-gallery{
+	padding: auto;
+
+}
+
+.street-photo-gallery{
+	background: url("/Users/christianlynch/Desktop/CodeCert/freeWork/pictures/_DSC5425.jpg");
+	height: 450px;
+	width: 1000px;
+	margin:auto;
+	background-size: 100%;
+	background-repeat: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: solid black 1px;
+}
+
+.street-photo-gallery:hover{
+	/*animation-name: hoveranimation;
+	animation-duration:1s;*/
+	opacity:.8;
+	transition:.4s;
+}
+.landscape-gallery{
+	background: url("/Users/christianlynch/Desktop/CodeCert/freeWork/pictures/DSC00668.jpg");
+	height: 450px;
+	width: 1000px;
+	margin:auto;
+	background-size: 100%;
+	background-repeat: none;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: solid black 1px;
+
+}
+
+.landscape-gallery:hover{
+	/*animation-name: hoveranimation;
+	animation-duration:1s;*/
+	opacity:.8;
+	transition:.4s;
 }
